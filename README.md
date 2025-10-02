@@ -23,6 +23,9 @@ https://nenkai.github.io/relink-modding/modding/installing_mods/#compatibility-w
   - You will need to do the ASI Loader fix for this.
 - [Automatic Power Adjustment](https://www.nexusmods.com/granbluefantasyrelink/mods/539)
   - Installed this for myself to nerf my characters when playing with friends
+ 
+- [Nexus Mods](https://www.nexusmods.com/games/granbluefantasyrelink/mods)
+  - Where all the mods come from (lotsa broken stuff + sussy shit on there monkaS)
 
 ## Mod List/Change list
 - Terminus Weapon Drop Rate modified to 40% instead of 20%

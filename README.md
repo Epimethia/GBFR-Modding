@@ -1,4 +1,4 @@
-# Granblue-Modding
+# GBFR Modding
 
 ## Setting up the mod loader
 Grab these:<br/>

@@ -21,6 +21,8 @@ https://nenkai.github.io/relink-modding/modding/installing_mods/#compatibility-w
 - [GBFR FOV/Widescreen Fix](https://github.com/Lyall/GBFRelinkFix/releases/download/v1.1.1/GBFRelinkFix_v1.1.1.zip)
   - Instructions found on the release page or the main page [here](https://github.com/Lyall/GBFRelinkFix)<br/>
   - You will need to do the ASI Loader fix for this.
+- [Automatic Power Adjustment](https://www.nexusmods.com/granbluefantasyrelink/mods/539)
+  - Installed this for myself to nerf my characters when playing with friends
 
 ## Mod List/Change list
 - Terminus Weapon Drop Rate modified to 40% instead of 20%
